@@ -1,0 +1,13 @@
+
+&INPUTPH
+  prefix='ZrTe5',
+  recover=.true.
+  outdir='/scratch/martin/ZrTe5/phonons/GM/high/tmp/',
+  fildyn='ZrTe5.dyn',
+  ldisp=.true.,
+  qplot=.true.,
+  tr2_ph=1e-20,
+  verbosity='high'
+ /
+ 1
+ 0.0   0.0   0.0   1
