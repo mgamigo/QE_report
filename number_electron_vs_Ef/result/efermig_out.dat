@@ -1,0 +1,13 @@
+ 
+    -Bisection root finding method
+ 
+     Bisection Fermi energy:   5.51031699033130       Num. electrons:
+   83.9999999999379     
+ 
+     Initial guess for Newton methods:   5.51031699033130       Num. electrons
+ :   83.9955037553688     
+ 
+    -Newton's minimization method
+ 
+     Final Fermi energy from Newton's method:   5.50161048659020      
+  Num. electrons:   83.9959458821904     
